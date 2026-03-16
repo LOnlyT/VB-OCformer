@@ -18,7 +18,7 @@ Supplementary data and trained models are available at https://doi.org/10.5281/z
 ## Setup
 Download and set up the repository:
 ```bash
-git clone https://github.com/liangOnlytao/VB-OCformer.git
+git clone https://github.com/LOnlyT/VB-OCformer.git
 cd VB-OCformer
 ```
 
