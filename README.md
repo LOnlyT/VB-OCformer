@@ -13,7 +13,7 @@ This repository contains:
 * ⚡️ [Training script](train.py) with a variational learning method.
 * 🛸 [Inference script](inference.py) utilizing the models supplied in 'onnx' format.
 
-Supplementary data and trained models are available at https://doi.org/10.5281/zenodo.15716616.
+Supplementary data and trained models are available at https://doi.org/10.5281/zenodo.19667712.
 
 ## Setup
 Download and set up the repository:
